@@ -1,0 +1,25 @@
+{
+    "name": "Google Pay",
+    "package_name": "com.google.pay",
+    "version": "3.4.5",
+    "dg_score": "2",
+    "mg_score": "4",
+    "id": "1"
+}
+{
+    "dg_score": "4",
+    "mg_score": "0",
+    "name": "YouTube",
+    "package_name": "com.google.youtube",
+    "version": "4.8.2",
+    "id": "2"
+}
+{
+   
+    "name": "Bitwarden",
+    "package_name": "com.bitwarden",
+    "version": "9.3.2",
+    "dg_score": "4",
+    "mg_score": "3",
+    "id": "3"
+}
