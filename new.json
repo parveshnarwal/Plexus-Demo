@@ -41,8 +41,8 @@
     "Version": "0.0.0",
     "DG_Rating": 3,
     "MG_Rating": "X",
-    "DG_Notes": "Google Play Services warning",
-    "MG_Notes": "map not working"
+    "DG_Notes": "Google Play Services warning, map not working",
+    "MG_Notes": "X"
   },
   {
     "Application": "3DMark",
@@ -68,8 +68,8 @@
     "Version": "0.0.0",
     "DG_Rating": 2,
     "MG_Rating": "X",
-    "DG_Notes": "Google Play Services warning",
-    "MG_Notes": "several broken functions"
+    "DG_Notes": "Google Play Services warning, several broken functions",
+    "MG_Notes": "X"
   },
   {
     "Application": "6ix9ine Runner",
@@ -113,8 +113,8 @@
     "Version": "0.0.0",
     "DG_Rating": 2,
     "MG_Rating": "X",
-    "DG_Notes": "Basic public transport planning works",
-    "MG_Notes": "Google Play Services warning"
+    "DG_Notes": "Basic public transport planning works, Google Play Services warning, maps functionality (gmaps) does not work",
+    "MG_Notes": "X"
   },
   {
     "Application": "9GAG",
@@ -266,8 +266,8 @@
     "Version": "0.0.0",
     "DG_Rating": 2,
     "MG_Rating": "X",
-    "DG_Notes": "Can successfully login",
-    "MG_Notes": "view listings"
+    "DG_Notes": "Can successfully login, view listings, no mapview, haven't tested full booking process",
+    "MG_Notes": "X"
   },
   {
     "Application": "AirMessage",
@@ -311,8 +311,8 @@
     "Version": "0.0.0",
     "DG_Rating": 3,
     "MG_Rating": 4,
-    "DG_Notes": "Google Play Services Warning",
-    "MG_Notes": "but no effect"
+    "DG_Notes": "Google Play Services Warning, but no effect",
+    "MG_Notes": "No reported issues"
   },
   {
     "Application": "AL-Chan",
@@ -573,7 +573,7 @@
     "DG_Rating": "X",
     "MG_Rating": 4,
     "DG_Notes": "X",
-    "MG_Notes": "Biometric Login disabled on custom ROMs"
+    "MG_Notes": "Biometric Login disabled on custom ROMs, not microG related"
   },
   {
     "Application": "APKMirror",
@@ -707,8 +707,8 @@
     "Version": "0.0.0",
     "DG_Rating": 3,
     "MG_Rating": 4,
-    "DG_Notes": "Google Play Services Warning",
-    "MG_Notes": "No notifications"
+    "DG_Notes": "Google Play Services Warning, no notifications",
+    "MG_Notes": "No reported issues"
   },
   {
     "Application": "AutomaTag",
@@ -743,8 +743,8 @@
     "Version": "0.0.0",
     "DG_Rating": 2,
     "MG_Rating": "X",
-    "DG_Notes": "Google Play Services Warning",
-    "MG_Notes": "but no effect. Without Google Play Services"
+    "DG_Notes": "Google Play Services Warning, but no effect. Without Google Play Services, you need to log in each time app is opened.",
+    "MG_Notes": "X"
   },
   {
     "Application": "Ballz",
@@ -752,8 +752,8 @@
     "Version": "0.0.0",
     "DG_Rating": 3,
     "MG_Rating": 4,
-    "DG_Notes": "Google Play Services Warning",
-    "MG_Notes": "but no effect"
+    "DG_Notes": "Google Play Services Warning, but no effect",
+    "MG_Notes": "No reported issues"
   },
   {
     "Application": "Banco do Brasil",
@@ -824,8 +824,8 @@
     "Version": "0.0.0",
     "DG_Rating": 3,
     "MG_Rating": 4,
-    "DG_Notes": "Google Play Services Warning",
-    "MG_Notes": "but no effect"
+    "DG_Notes": "Google Play Services Warning, but no effect",
+    "MG_Notes": "No reported issues"
   },
   {
     "Application": "Banorte Movil",
@@ -905,11 +905,11 @@
     "Version": "0.0.0",
     "DG_Rating": 3,
     "MG_Rating": 4,
-    "DG_Notes": "Google Play Services warning",
-    "MG_Notes": "no notifications"
+    "DG_Notes": "Google Play Services warning, no notifications",
+    "MG_Notes": "No reported issues"
   },
   {
-    "Application": "Beem It",
+    "Application": "Berichtenbox",
     "Package": "package_name",
     "Version": "0.0.0",
     "DG_Rating": "X",
@@ -1058,8 +1058,8 @@
     "Version": "0.0.0",
     "DG_Rating": 3,
     "MG_Rating": 4,
-    "DG_Notes": "Google Play Services Warning",
-    "MG_Notes": "but no effect"
+    "DG_Notes": "Google Play Services Warning, but no effect",
+    "MG_Notes": "No reported issues"
   },
   {
     "Application": "Bloons TD Battles",
@@ -1589,8 +1589,8 @@
     "Version": "0.0.0",
     "DG_Rating": 3,
     "MG_Rating": 3,
-    "DG_Notes": "Some missing notifications",
-    "MG_Notes": "no in-app purchases"
+    "DG_Notes": "Some missing notifications, no in-app purchases",
+    "MG_Notes": "No in-app purchases"
   },
   {
     "Application": "Clash Royale",
@@ -1670,8 +1670,8 @@
     "Version": "0.0.0",
     "DG_Rating": 3,
     "MG_Rating": "X",
-    "DG_Notes": "No in-app purchases. Also",
-    "MG_Notes": "none of the alerts work."
+    "DG_Notes": "No in-app purchases. Also, none of the alerts work.",
+    "MG_Notes": "X"
   },
   {
     "Application": "Colombia Radios",
@@ -2030,8 +2030,8 @@
     "Version": "0.0.0",
     "DG_Rating": 3,
     "MG_Rating": "X",
-    "DG_Notes": "Cannot sign up from the application",
-    "MG_Notes": "but can login from the application"
+    "DG_Notes": "Cannot sign up from the application, but can login from the application",
+    "MG_Notes": "X"
   },
   {
     "Application": "D-Flight",
@@ -2048,8 +2048,8 @@
     "Version": "0.0.0",
     "DG_Rating": 2,
     "MG_Rating": "X",
-    "DG_Notes": "Google Play Services warning",
-    "MG_Notes": "map not working"
+    "DG_Notes": "Google Play Services warning, map not working",
+    "MG_Notes": "X"
   },
   {
     "Application": "Deliveroo",
@@ -2156,8 +2156,8 @@
     "Version": "0.0.0",
     "DG_Rating": 3,
     "MG_Rating": "X",
-    "DG_Notes": "Cannot sign up from the application",
-    "MG_Notes": "but can login from the application"
+    "DG_Notes": "Cannot sign up from the application, but can login from the application",
+    "MG_Notes": "X"
   },
   {
     "Application": "DJI Go 4",
@@ -2192,8 +2192,8 @@
     "Version": "0.0.0",
     "DG_Rating": 3,
     "MG_Rating": "X",
-    "DG_Notes": "Google Play Service warning",
-    "MG_Notes": "but no effect"
+    "DG_Notes": "Google Play Service warning, but no effect",
+    "MG_Notes": "X"
   },
   {
     "Application": "Dlf Die Nachrichten",
@@ -2309,8 +2309,8 @@
     "Version": "0.0.0",
     "DG_Rating": 2,
     "MG_Rating": "X",
-    "DG_Notes": "Loads",
-    "MG_Notes": "but no in-app purchases"
+    "DG_Notes": "Loads, but no in-app purchases",
+    "MG_Notes": "X"
   },
   {
     "Application": "DS Note",
@@ -2426,8 +2426,8 @@
     "Version": "0.0.0",
     "DG_Rating": 3,
     "MG_Rating": "X",
-    "DG_Notes": "No notifications",
-    "MG_Notes": "Maps do not show within the application"
+    "DG_Notes": "No notifications, maps do not show within the application",
+    "MG_Notes": "X"
   },
   {
     "Application": "eBay",
@@ -3011,8 +3011,8 @@
     "Version": "0.0.0",
     "DG_Rating": 3,
     "MG_Rating": 4,
-    "DG_Notes": "Google Play Services Warning",
-    "MG_Notes": "but no effect"
+    "DG_Notes": "Google Play Services Warning, but no effect",
+    "MG_Notes": "No reported issues"
   },
   {
     "Application": "FX File Explorer",
@@ -3191,8 +3191,8 @@
     "Version": "0.0.0",
     "DG_Rating": 3,
     "MG_Rating": "X",
-    "DG_Notes": "Loads the login prompt slowly",
-    "MG_Notes": "but no issues. No notifications."
+    "DG_Notes": "Loads the login prompt slowly, but no issues. No notifications.",
+    "MG_Notes": "X"
   },
   {
     "Application": "Goodreads",
@@ -3227,8 +3227,8 @@
     "Version": "0.0.0",
     "DG_Rating": 3,
     "MG_Rating": 4,
-    "DG_Notes": "Working",
-    "MG_Notes": "but need spoofed API & Image preview won't work without Google Photos installed"
+    "DG_Notes": "Working, but need spoofed API & Image preview won't work without Google Photos installed",
+    "MG_Notes": "No reported issues"
   },
   {
     "Application": "Google Cardboard",
@@ -3390,7 +3390,7 @@
     "DG_Rating": 1,
     "MG_Rating": 3,
     "DG_Notes": "Unusable",
-    "MG_Notes": "Google Play Services Warning"
+    "MG_Notes": "Google Play Services Warning, some functions missing"
   },
   {
     "Application": "Google Pay",
@@ -3425,8 +3425,8 @@
     "Version": "0.0.0",
     "DG_Rating": 3,
     "MG_Rating": 4,
-    "DG_Notes": "Google Play Services Warning",
-    "MG_Notes": "but no effect"
+    "DG_Notes": "Google Play Services Warning, but no effect",
+    "MG_Notes": "No reported issues"
   },
   {
     "Application": "Google Play Services for AR",
@@ -3479,8 +3479,8 @@
     "Version": "0.0.0",
     "DG_Rating": 3,
     "MG_Rating": "X",
-    "DG_Notes": "Google Play Services Warning",
-    "MG_Notes": "but no effect"
+    "DG_Notes": "Google Play Services Warning, but no effect",
+    "MG_Notes": "X"
   },
   {
     "Application": "Gotify",
@@ -3848,8 +3848,8 @@
     "Version": "0.0.0",
     "DG_Rating": 3,
     "MG_Rating": 4,
-    "DG_Notes": "Google Play Services Warning",
-    "MG_Notes": "but no effect"
+    "DG_Notes": "Google Play Services Warning, but no effect",
+    "MG_Notes": "No reported issues"
   },
   {
     "Application": "iGym Notes",
@@ -3951,13 +3951,13 @@
     "MG_Notes": "Signing in using some 3rd party accounts (Google & Twitter) does not work"
   },
   {
-    "Application": "Insight timer: meditation sleep and music",
+    "Application": "Insight timer: meditation, sleep and music",
     "Package": "package_name",
     "Version": "0.0.0",
     "DG_Rating": 1,
     "MG_Rating": 2,
     "DG_Notes": "Unusable",
-    "MG_Notes": "The timer works"
+    "MG_Notes": "The timer works, but not guided meditations - Cannot login, app hangs, no errors reported."
   },
   {
     "Application": "Instacart",
@@ -4820,8 +4820,8 @@
     "Version": "0.0.0",
     "DG_Rating": 1,
     "MG_Rating": "X",
-    "DG_Notes": "Unusable",
-    "MG_Notes": "cannot download PDF files. On newer versions can no longer log in."
+    "DG_Notes": "Unusable, cannot download PDF files. On newer versions can no longer log in.",
+    "MG_Notes": "X"
   },
   {
     "Application": "Menulog",
@@ -4848,7 +4848,7 @@
     "DG_Rating": "X",
     "MG_Rating": 3,
     "DG_Notes": "X",
-    "MG_Notes": "Cannot login to eBird to access lifelist otherwise works fine"
+    "MG_Notes": "Cannot login to eBird to access lifelist, otherwise works fine"
   },
   {
     "Application": "Merriam-Webster",
@@ -5054,8 +5054,8 @@
     "Version": "0.0.0",
     "DG_Rating": 3,
     "MG_Rating": 4,
-    "DG_Notes": "Google Play Services Warning",
-    "MG_Notes": "but no effect"
+    "DG_Notes": "Google Play Services Warning, but no effect",
+    "MG_Notes": "No reported issues"
   },
   {
     "Application": "Minds",
@@ -5108,8 +5108,8 @@
     "Version": "0.0.0",
     "DG_Rating": 3,
     "MG_Rating": "X",
-    "DG_Notes": "No notifications. Google Play Services Warning",
-    "MG_Notes": "but no effect"
+    "DG_Notes": "No notifications. Google Play Services Warning, but no effect",
+    "MG_Notes": "X"
   },
   {
     "Application": "MiXplorer",
@@ -5270,8 +5270,8 @@
     "Version": "0.0.0",
     "DG_Rating": 1,
     "MG_Rating": "X",
-    "DG_Notes": "Login not working",
-    "MG_Notes": "bot alert"
+    "DG_Notes": "Login not working, bot alert",
+    "MG_Notes": "X"
   },
   {
     "Application": "mydealz",
@@ -5567,8 +5567,8 @@
     "Version": "0.0.0",
     "DG_Rating": 3,
     "MG_Rating": 4,
-    "DG_Notes": "Works",
-    "MG_Notes": "but unable to cast to Chromecast"
+    "DG_Notes": "Works, but unable to cast to Chromecast",
+    "MG_Notes": "No reported issues"
   },
   {
     "Application": "Netgear Mobile",
@@ -5856,7 +5856,7 @@
     "DG_Rating": "X",
     "MG_Rating": 4,
     "DG_Notes": "X",
-    "MG_Notes": "Manually installed"
+    "MG_Notes": "Manually installed, unupgradeable"
   },
   {
     "Application": "OKCupid",
@@ -5990,8 +5990,8 @@
     "Version": "0.0.0",
     "DG_Rating": 3,
     "MG_Rating": 4,
-    "DG_Notes": "Google Play Services Warning",
-    "MG_Notes": "but no effect"
+    "DG_Notes": "Google Play Services Warning, but no effect",
+    "MG_Notes": "No reported issues"
   },
   {
     "Application": "Orange Radio",
@@ -6017,8 +6017,8 @@
     "Version": "0.0.0",
     "DG_Rating": 4,
     "MG_Rating": "X",
-    "DG_Notes": "No reported issues",
-    "MG_Notes": "downloaded from its website"
+    "DG_Notes": "No reported issues, downloaded from its website",
+    "MG_Notes": "X"
   },
   {
     "Application": "OTG View",
@@ -6044,8 +6044,8 @@
     "Version": "0.0.0",
     "DG_Rating": 1,
     "MG_Rating": 4,
-    "DG_Notes": "App starts and then auto-closes after about five seconds.  This is on current Outlook version 4.2142.1.  Downgrading to version 4.2131.1 made the app stable and it worked fine.  Somewhere between those two versions",
-    "MG_Notes": "Microsoft changed something to make this no longer work"
+    "DG_Notes": "App starts and then auto-closes after about five seconds. This is on current Outlook version 4.2142.1. Downgrading to version 4.2131.1 made the app stable and it worked fine. Somewhere between those two versions, Microsoft changed something to make this no longer work",
+    "MG_Notes": "No reported issues"
   },
   {
     "Application": "Oxygen Updater",
@@ -6080,8 +6080,8 @@
     "Version": "0.0.0",
     "DG_Rating": 3,
     "MG_Rating": "X",
-    "DG_Notes": "Google Play Services Warning",
-    "MG_Notes": "but no effect"
+    "DG_Notes": "Google Play Services Warning, but no effect",
+    "MG_Notes": "X"
   },
   {
     "Application": "PAKO",
@@ -6089,8 +6089,8 @@
     "Version": "0.0.0",
     "DG_Rating": 3,
     "MG_Rating": "X",
-    "DG_Notes": "Google Play Services Warning",
-    "MG_Notes": "but no effect"
+    "DG_Notes": "Google Play Services Warning, but no effect",
+    "MG_Notes": "X"
   },
   {
     "Application": "Palm Beach Research Group Mobile",
@@ -6323,8 +6323,8 @@
     "Version": "0.0.0",
     "DG_Rating": 3,
     "MG_Rating": 1,
-    "DG_Notes": "Google Play Services Warning",
-    "MG_Notes": "but no effect"
+    "DG_Notes": "Google Play Services Warning, but no effect",
+    "MG_Notes": "Unusable"
   },
   {
     "Application": "PlantNet",
@@ -6431,8 +6431,8 @@
     "Version": "0.0.0",
     "DG_Rating": 3,
     "MG_Rating": "X",
-    "DG_Notes": "Buggy",
-    "MG_Notes": "Crashes Occasionally"
+    "DG_Notes": "Buggy, crashes occasionally",
+    "MG_Notes": "X"
   },
   {
     "Application": "Post & DHL",
@@ -6440,8 +6440,8 @@
     "Version": "0.0.0",
     "DG_Rating": 3,
     "MG_Rating": 4,
-    "DG_Notes": "Google Play Service warning",
-    "MG_Notes": "but no effect"
+    "DG_Notes": "Google Play Service warning, but no effect",
+    "MG_Notes": "No reported issues"
   },
   {
     "Application": "PosteID",
@@ -6728,8 +6728,8 @@
     "Version": "0.0.0",
     "DG_Rating": 3,
     "MG_Rating": "X",
-    "DG_Notes": "Google Play Services Warning",
-    "MG_Notes": "but no effect"
+    "DG_Notes": "Google Play Services Warning, but no effect",
+    "MG_Notes": "X"
   },
   {
     "Application": "Reddit",
@@ -6845,8 +6845,8 @@
     "Version": "0.0.0",
     "DG_Rating": 3,
     "MG_Rating": "X",
-    "DG_Notes": "Google Play Services Warning",
-    "MG_Notes": "but no effect"
+    "DG_Notes": "Google Play Services Warning, but no effect",
+    "MG_Notes": "X"
   },
   {
     "Application": "Rippl",
@@ -6863,8 +6863,8 @@
     "Version": "0.0.0",
     "DG_Rating": 3,
     "MG_Rating": 4,
-    "DG_Notes": "Google Play Services Warning",
-    "MG_Notes": "but no effect"
+    "DG_Notes": "Google Play Services Warning, but no effect",
+    "MG_Notes": "No reported issues"
   },
   {
     "Application": "Roblox",
@@ -6926,8 +6926,8 @@
     "Version": "0.0.0",
     "DG_Rating": 3,
     "MG_Rating": 4,
-    "DG_Notes": "Google Play Services Warning",
-    "MG_Notes": "but no effect. No notifications."
+    "DG_Notes": "Google Play Services Warning, but no effect. No notifications.",
+    "MG_Notes": "No reported issues"
   },
   {
     "Application": "Ryanair",
@@ -7070,8 +7070,8 @@
     "Version": "0.0.0",
     "DG_Rating": 3,
     "MG_Rating": "X",
-    "DG_Notes": "Google Play Services warning",
-    "MG_Notes": "but no effect"
+    "DG_Notes": "Google Play Services warning, but no effect",
+    "MG_Notes": "X"
   },
   {
     "Application": "SEEK",
@@ -7133,8 +7133,8 @@
     "Version": "0.0.0",
     "DG_Rating": 3,
     "MG_Rating": "X",
-    "DG_Notes": "Google Play Services Warning",
-    "MG_Notes": "but no effect"
+    "DG_Notes": "Google Play Services Warning, but no effect",
+    "MG_Notes": "X"
   },
   {
     "Application": "Sharedr",
@@ -7200,7 +7200,7 @@
     "MG_Notes": "No reported issues"
   },
   {
-    "Application": "Simple habit: meditation sleep",
+    "Application": "Simple habit: meditation, sleep",
     "Package": "package_name",
     "Version": "0.0.0",
     "DG_Rating": 2,
@@ -7223,8 +7223,8 @@
     "Version": "0.0.0",
     "DG_Rating": 3,
     "MG_Rating": 4,
-    "DG_Notes": "Google Play Services Warning",
-    "MG_Notes": "but no effect"
+    "DG_Notes": "Google Play Services Warning,but no effect",
+    "MG_Notes": "No reported issues"
   },
   {
     "Application": "Simply Wall St",
@@ -7250,8 +7250,8 @@
     "Version": "0.0.0",
     "DG_Rating": 3,
     "MG_Rating": "X",
-    "DG_Notes": "Google Play Services Warning",
-    "MG_Notes": "but no effect"
+    "DG_Notes": "Google Play Services Warning, but no effect",
+    "MG_Notes": "X"
   },
   {
     "Application": "SketchBook",
@@ -7268,8 +7268,8 @@
     "Version": "0.0.0",
     "DG_Rating": 3,
     "MG_Rating": "X",
-    "DG_Notes": "Google Play Services Warning",
-    "MG_Notes": "but no effect"
+    "DG_Notes": "Google Play Services Warning, but no effect",
+    "MG_Notes": "X"
   },
   {
     "Application": "Sky News",
@@ -7385,8 +7385,8 @@
     "Version": "0.0.0",
     "DG_Rating": 2,
     "MG_Rating": 4,
-    "DG_Notes": "Google Play services warning each time the app is opened",
-    "MG_Notes": "no notifications"
+    "DG_Notes": "Google Play services warning each time the app is opened, no notifications",
+    "MG_Notes": "No reported issues"
   },
   {
     "Application": "Snapseed",
@@ -7403,8 +7403,8 @@
     "Version": "0.0.0",
     "DG_Rating": 3,
     "MG_Rating": "X",
-    "DG_Notes": "Google Play Services Warning",
-    "MG_Notes": "map not working"
+    "DG_Notes": "Google Play Services Warning, map not working",
+    "MG_Notes": "X"
   },
   {
     "Application": "SoFi",
@@ -7421,8 +7421,8 @@
     "Version": "0.0.0",
     "DG_Rating": 3,
     "MG_Rating": "X",
-    "DG_Notes": "Google Play Services Warning",
-    "MG_Notes": "but no effect"
+    "DG_Notes": "Google Play Services Warning, but no effect",
+    "MG_Notes": "X"
   },
   {
     "Application": "SoloLearn",
@@ -7458,7 +7458,7 @@
     "DG_Rating": "X",
     "MG_Rating": 3,
     "DG_Notes": "X",
-    "MG_Notes": "The entire app works fine. No in-app purchases"
+    "MG_Notes": "The entire app works fine. No in-app purchases, forcing you to use the site to buy it."
   },
   {
     "Application": "Sonos",
@@ -7637,8 +7637,8 @@
     "Version": "0.0.0",
     "DG_Rating": 3,
     "MG_Rating": 3,
-    "DG_Notes": "Google Play Services Warning",
-    "MG_Notes": "but no effect"
+    "DG_Notes": "Google Play Services Warning, but no effect",
+    "MG_Notes": "Map search is blank. However, list of nearby stores works."
   },
   {
     "Application": "Starling",
@@ -7701,7 +7701,7 @@
     "DG_Rating": "X",
     "MG_Rating": 3,
     "DG_Notes": "X",
-    "MG_Notes": "Only problem with microg is initial login hurdles: First"
+    "MG_Notes": "Only problem with microg is initial login hurdles: First, the app requires Google Maps. After that you need to log in via facebook, or have droidguard helper (found from microg repository) so that you complete the google captcha when logging in via only email. You may also need google safety net activated in the microg settings."
   },
   {
     "Application": "Stride",
@@ -7709,8 +7709,8 @@
     "Version": "0.0.0",
     "DG_Rating": 3,
     "MG_Rating": "X",
-    "DG_Notes": "Google Play Services Warning",
-    "MG_Notes": "but no effect"
+    "DG_Notes": "Google Play Services Warning, but no effect",
+    "MG_Notes": "X"
   },
   {
     "Application": "Stryd",
@@ -7980,7 +7980,7 @@
     "DG_Rating": "X",
     "MG_Rating": 3,
     "DG_Notes": "X",
-    "MG_Notes": "No IAPs"
+    "MG_Notes": "No IAPs, app works perfectly otherwise."
   },
   {
     "Application": "Taste - Movie & TV Recommendations",
@@ -8024,8 +8024,8 @@
     "Version": "0.0.0",
     "DG_Rating": 3,
     "MG_Rating": 4,
-    "DG_Notes": "Google Play Services warning",
-    "MG_Notes": "No notifications"
+    "DG_Notes": "Google Play Services warning, no notifications",
+    "MG_Notes": "No reported issues"
   },
   {
     "Application": "Teamspeak 3",
@@ -8141,8 +8141,8 @@
     "Version": "0.0.0",
     "DG_Rating": 2,
     "MG_Rating": "X",
-    "DG_Notes": "No in-app purchases. Also",
-    "MG_Notes": "none of the alerts work."
+    "DG_Notes": "No in-app purchases. Also, none of the alerts work.",
+    "MG_Notes": "X"
   },
   {
     "Application": "The Guardian",
@@ -8204,8 +8204,8 @@
     "Version": "0.0.0",
     "DG_Rating": 2,
     "MG_Rating": "X",
-    "DG_Notes": "No notifications",
-    "MG_Notes": "no map preview"
+    "DG_Notes": "No notifications, no map preview",
+    "MG_Notes": "X"
   },
   {
     "Application": "TickTick",
@@ -8249,8 +8249,8 @@
     "Version": "0.0.0",
     "DG_Rating": 2,
     "MG_Rating": 3,
-    "DG_Notes": "Google Play Services Warning",
-    "MG_Notes": "also missing maps previews"
+    "DG_Notes": "Google Play Services Warning, also missing maps previews",
+    "MG_Notes": "Map of all tiles doesn't load, independent tile maps works fine."
   },
   {
     "Application": "Tiles Hop",
@@ -8267,8 +8267,8 @@
     "Version": "0.0.0",
     "DG_Rating": 1,
     "MG_Rating": 4,
-    "DG_Notes": "Doesn't keep state",
-    "MG_Notes": "unusable"
+    "DG_Notes": "Doesn't keep state, unusable",
+    "MG_Notes": "No reported issues"
   },
   {
     "Application": "Tinkoff Junior (Тинькофф Джуниор)",
@@ -8294,8 +8294,8 @@
     "Version": "0.0.0",
     "DG_Rating": 3,
     "MG_Rating": 2,
-    "DG_Notes": "Google Play Services Warning",
-    "MG_Notes": "but no effect"
+    "DG_Notes": "Google Play Services Warning, but no effect",
+    "MG_Notes": "Unable to login by default. Login can by achieved by downloading older version (8000 works), signing in and then updating the app."
   },
   {
     "Application": "Tomorrow Mobile Banking",
@@ -8330,8 +8330,8 @@
     "Version": "0.0.0",
     "DG_Rating": 1,
     "MG_Rating": 4,
-    "DG_Notes": "Unable to choose location",
-    "MG_Notes": "map not working"
+    "DG_Notes": "Unable to choose location, map not working",
+    "MG_Notes": "No reported issues"
   },
   {
     "Application": "Total Launcher",
@@ -8447,8 +8447,8 @@
     "Version": "0.0.0",
     "DG_Rating": 4,
     "MG_Rating": "X",
-    "DG_Notes": "Google Play Services Warning",
-    "MG_Notes": "no effect"
+    "DG_Notes": "Google Play Services Warning, no effect",
+    "MG_Notes": "X"
   },
   {
     "Application": "Tresorit",
@@ -8483,8 +8483,8 @@
     "Version": "0.0.0",
     "DG_Rating": 3,
     "MG_Rating": "X",
-    "DG_Notes": "Google Play Services Warning",
-    "MG_Notes": "but no effect"
+    "DG_Notes": "Google Play Services Warning, but no effect",
+    "MG_Notes": "X"
   },
   {
     "Application": "Triodos Bank",
@@ -8501,8 +8501,8 @@
     "Version": "0.0.0",
     "DG_Rating": 2,
     "MG_Rating": "X",
-    "DG_Notes": "Can't view categories",
-    "MG_Notes": "Google Play Services warning"
+    "DG_Notes": "Can't view categories, Google Play Services warning",
+    "MG_Notes": "X"
   },
   {
     "Application": "TripIt",
@@ -8600,8 +8600,8 @@
     "Version": "0.0.0",
     "DG_Rating": 3,
     "MG_Rating": 1,
-    "DG_Notes": "Google Play Services Warning",
-    "MG_Notes": "but no effect"
+    "DG_Notes": "Google Play Services Warning, but no effect",
+    "MG_Notes": "Blank screen when phone number is chosen immediately after loading app"
   },
   {
     "Application": "Udemy",
@@ -8609,8 +8609,8 @@
     "Version": "0.0.0",
     "DG_Rating": 3,
     "MG_Rating": 4,
-    "DG_Notes": "Google Play Services Warning",
-    "MG_Notes": "no effect"
+    "DG_Notes": "Google Play Services Warning, no effect",
+    "MG_Notes": "No reported issues"
   },
   {
     "Application": "Unacademy Learning App",
@@ -8771,8 +8771,8 @@
     "Version": "0.0.0",
     "DG_Rating": 3,
     "MG_Rating": 4,
-    "DG_Notes": "Google Play Services Warning",
-    "MG_Notes": "but no effect"
+    "DG_Notes": "Google Play Services Warning, but no effect",
+    "MG_Notes": "No reported issues"
   },
   {
     "Application": "VLC",
@@ -9207,7 +9207,7 @@
     "MG_Notes": "X"
   },
   {
-    "Application": "Yes  that dress!",
+    "Application": "Yes, that dress!",
     "Package": "package_name",
     "Version": "0.0.0",
     "DG_Rating": 1,
@@ -9392,8 +9392,8 @@
     "Version": "0.0.0",
     "DG_Rating": 1,
     "MG_Rating": "X",
-    "DG_Notes": "After submitting credentials",
-    "MG_Notes": "app stuck at attempting to log in. Required Google Play to complete log in."
+    "DG_Notes": "After submitting credentials, app stuck at attempting to log in. Required Google Play to complete log in.",
+    "MG_Notes": "X"
   },
   {
     "Application": "Zoho Workdrive",
