@@ -6,8 +6,7 @@
     "DG_Rating": 3,
     "MG_Rating": "X",
     "DG_Notes": "No notifications",
-    "MG_Notes": "X",
-    "Category": "security"
+    "MG_Notes": "X"
   },
   {
     "Application": "10 Sticker Packs for WA",
@@ -16,8 +15,7 @@
     "DG_Rating": "X",
     "MG_Rating": 4,
     "DG_Notes": "X",
-    "MG_Notes": "No reported issues",
-    "Category": "tools"
+    "MG_Notes": "No reported issues"
   },
   {
     "Application": "112 Where are you",
@@ -26,7 +24,6 @@
     "DG_Rating": 3,
     "MG_Rating": "X",
     "DG_Notes": "Slower localization with occasional issues",
-    "MG_Notes": "X",
-    "Category": "payment"
+    "MG_Notes": "X"
   }
 ]
