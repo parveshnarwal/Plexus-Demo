@@ -1,5 +1,14 @@
 [
   {
+    "Application": "1&1 another test app",
+    "Package": "package_name",
+    "Version": "0.0.0",
+    "DG_Rating": 1,
+    "MG_Rating": "X",
+    "DG_Notes": "No notifications",
+    "MG_Notes": "X"
+  },
+  {
     "Application": "1&1 Control-Center",
     "Package": "package_name",
     "Version": "0.0.0",
