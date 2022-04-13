@@ -36,11 +36,11 @@
     "MG_Notes": "X"
   },
   {
-    "Application": "test2 app",
+    "Application": "test app",
     "Package": "package_name",
     "Version": "0.0.0",
-    "DG_Rating": 2,
-    "MG_Rating": "2",
+    "DG_Rating": 1,
+    "MG_Rating": "4",
     "DG_Notes": "No notifications",
     "MG_Notes": "X"
   }
