@@ -34,5 +34,14 @@
     "MG_Rating": "1",
     "DG_Notes": "No notifications",
     "MG_Notes": "X"
+  },
+  {
+    "Application": "test app",
+    "Package": "package_name",
+    "Version": "0.0.0",
+    "DG_Rating": 1,
+    "MG_Rating": "3",
+    "DG_Notes": "No notifications",
+    "MG_Notes": "X"
   }
 ]
