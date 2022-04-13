@@ -1,32 +1,32 @@
 [
-	{
-		"DG_Rating": 2,
-		"MG_Rating": 4,
-		"Application": "Google Pay",
-		"Package": "com.google.pay",
-		"Version": "3.4.5"
-		"DG_Notes": "X"
-		"MG_Notes": "X"
-		"Category": "payment"
-	},
-	{
-		"DG_Rating": 4,
-		"MG_Rating": 0,
-		"Application": "YouTube",
-		"Package": "com.google.android.youtube",
-		"Version": "2.8.2"
-		"DG_Notes": "X"
-		"MG_Notes": "X"
-		"Category": "video"
-	},
-	{
-		"DG_Rating": 4,
-		"MG_Rating": 1,
-		"Application": "Bitwarden",
-		"Package": "com.bitwarden",
-		"Version": "9.3.2"
-		"DG_Notes": "X"
-		"MG_Notes": "X"
-		"Category": "security"
-	}
+  {
+    "Application": "1&1 Control-Center",
+    "Package": "package_name",
+    "Version": "0.0.0",
+    "DG_Rating": 3,
+    "MG_Rating": "X",
+    "DG_Notes": "No notifications",
+    "MG_Notes": "X",
+    "Category": "security"
+  },
+  {
+    "Application": "10 Sticker Packs for WA",
+    "Package": "org.telegram.wastickers.bestof",
+    "Version": "0.0.0",
+    "DG_Rating": "X",
+    "MG_Rating": 4,
+    "DG_Notes": "X",
+    "MG_Notes": "No reported issues",
+    "Category": "tools"
+  },
+  {
+    "Application": "112 Where are you",
+    "Package": "package_name",
+    "Version": "0.0.0",
+    "DG_Rating": 3,
+    "MG_Rating": "X",
+    "DG_Notes": "Slower localization with occasional issues",
+    "MG_Notes": "X",
+    "Category": "payment"
+  }
 ]
