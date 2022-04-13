@@ -1,14 +1,5 @@
 [
   {
-    "Application": "1&1 a new test app",
-    "Package": "package_name",
-    "Version": "0.0.0",
-    "DG_Rating": 3,
-    "MG_Rating": "X",
-    "DG_Notes": "No notifications",
-    "MG_Notes": "X"
-  },
-  {
     "Application": "1&1 Control-Center",
     "Package": "package_name",
     "Version": "0.0.0",
@@ -33,6 +24,15 @@
     "DG_Rating": 3,
     "MG_Rating": "X",
     "DG_Notes": "Slower localization with occasional issues",
+    "MG_Notes": "X"
+  },
+  {
+    "Application": "a new test app",
+    "Package": "package_name",
+    "Version": "0.0.0",
+    "DG_Rating": 2,
+    "MG_Rating": "1",
+    "DG_Notes": "No notifications",
     "MG_Notes": "X"
   }
 ]
