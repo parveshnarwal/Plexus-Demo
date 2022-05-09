@@ -2,7 +2,7 @@
   {
     "Application": "1Password",
     "Package": "com.agilebits.onepassword",
-    "Version": "0.0.0",
+    "Version": "7.9.2",
     "DG_Rating": 3,
     "MG_Rating": "X",
     "DG_Notes": "No notifications",
@@ -11,7 +11,7 @@
   {
     "Application": "7zipper",
     "Package": "org.joa.zipperplus7",
-    "Version": "0.0.0",
+    "Version": "3.10.77",
     "DG_Rating": "X",
     "MG_Rating": 4,
     "DG_Notes": "X",
@@ -20,7 +20,7 @@
   {
     "Application": "9GAG",
     "Package": "com.ninegag.android.app",
-    "Version": "0.0.0",
+    "Version": "6.128.02 (26088)",
     "DG_Rating": "X",
     "MG_Rating": 4,
     "DG_Notes": "X",
@@ -29,7 +29,7 @@
   {
     "Application": "A+ Gallery",
     "Package": "com.atomicadd.fotos",
-    "Version": "0.0.0",
+    "Version": "2.2.63.2",
     "DG_Rating": 4,
     "MG_Rating": "X",
     "DG_Notes": "No reported issues",
@@ -38,16 +38,16 @@
   {
     "Application": "AccuBattery",
     "Package": "com.digibites.accubattery",
-    "Version": "0.0.0",
+    "Version": "1.5.1.1",
     "DG_Rating": 4,
     "MG_Rating": 4,
     "DG_Notes": "No reported issues",
     "MG_Notes": "No reported issues"
   },
   {
-    "Application": "adidas",
+    "Application": "Adidas",
     "Package": "com.adidas.app",
-    "Version": "0.0.0",
+    "Version": "5.2.0",
     "DG_Rating": "X",
     "MG_Rating": 4,
     "DG_Notes": "X",
@@ -56,20 +56,11 @@
   {
     "Application": "Adobe Creative Cloud",
     "Package": "com.adobe.cc",
-    "Version": "0.0.0",
+    "Version": "6.5.1",
     "DG_Rating": "X",
     "MG_Rating": 4,
     "DG_Notes": "X",
     "MG_Notes": "No reported issues"
-  },
-  {
-    "Application": "ADT Smart Services",
-    "Package": "package_name",
-    "Version": "0.0.0",
-    "DG_Rating": 3,
-    "MG_Rating": "X",
-    "DG_Notes": "No notifications and Google Play Services Warning (But no effect)",
-    "MG_Notes": "X"
   },
   {
     "Application": "Advanced Download Manager",
@@ -159,24 +150,6 @@
     "DG_Rating": 3,
     "MG_Rating": 4,
     "DG_Notes": "Google Play Services Warning, but no effect",
-    "MG_Notes": "No reported issues"
-  },
-  {
-    "Application": "AL-Chan",
-    "Package": "com.zen.alchan",
-    "Version": "0.0.0",
-    "DG_Rating": 3,
-    "MG_Rating": 4,
-    "DG_Notes": "Notifications don't work",
-    "MG_Notes": "No reported issues"
-  },
-  {
-    "Application": "ALDI TALK",
-    "Package": "com.medion.alditalknl",
-    "Version": "0.0.0",
-    "DG_Rating": "X",
-    "MG_Rating": 4,
-    "DG_Notes": "X",
     "MG_Notes": "No reported issues"
   },
   {
@@ -276,15 +249,6 @@
     "DG_Rating": 3,
     "MG_Rating": 4,
     "DG_Notes": "No notifications",
-    "MG_Notes": "No reported issues"
-  },
-  {
-    "Application": "AMBOSS Medical Knowledge Library & Clinic Resource",
-    "Package": "com.amboss.medical.knowledge",
-    "Version": "0.0.0",
-    "DG_Rating": "X",
-    "MG_Rating": 4,
-    "DG_Notes": "X",
     "MG_Notes": "No reported issues"
   },
   {
@@ -423,24 +387,6 @@
     "MG_Notes": "X"
   },
   {
-    "Application": "ANZ",
-    "Package": "package_name",
-    "Version": "0.0.0",
-    "DG_Rating": "X",
-    "MG_Rating": 4,
-    "DG_Notes": "X",
-    "MG_Notes": "Biometric Login disabled on custom ROMs, not microG related"
-  },
-  {
-    "Application": "APKMirror",
-    "Package": "com.apkmirror.helper.prod",
-    "Version": "0.0.0",
-    "DG_Rating": 4,
-    "MG_Rating": "X",
-    "DG_Notes": "No reported issues",
-    "MG_Notes": "X"
-  },
-  {
     "Application": "Apple Music",
     "Package": "com.apple.android.music",
     "Version": "0.0.0",
@@ -448,15 +394,6 @@
     "MG_Rating": 4,
     "DG_Notes": "No reported issues",
     "MG_Notes": "No reported issues"
-  },
-  {
-    "Application": "ARD Audiothek",
-    "Package": "de.ard.audiothek",
-    "Version": "0.0.0",
-    "DG_Rating": 3,
-    "MG_Rating": "X",
-    "DG_Notes": "No push notifications (warns about it)",
-    "MG_Notes": "X"
   },
   {
     "Application": "Argenta",
@@ -495,15 +432,6 @@
     "MG_Notes": "X"
   },
   {
-    "Application": "ASB Mobile Banking",
-    "Package": "nz.co.asb.asbmobile",
-    "Version": "0.0.0",
-    "DG_Rating": "X",
-    "MG_Rating": 4,
-    "DG_Notes": "X",
-    "MG_Notes": "No reported issues"
-  },
-  {
     "Application": "Asphalt 8",
     "Package": "com.gameloft.android.ANMP.GloftA8HM",
     "Version": "0.0.0",
@@ -513,15 +441,6 @@
     "MG_Notes": "X"
   },
   {
-    "Application": "ASN Mobiel Bankieren",
-    "Package": "nl.asnbank.asnbankieren",
-    "Version": "0.0.0",
-    "DG_Rating": "X",
-    "MG_Rating": 4,
-    "DG_Notes": "X",
-    "MG_Notes": "No reported issues"
-  },
-  {
     "Application": "aTimeLogger",
     "Package": "com.aloggers.atimeloggerapp",
     "Version": "0.0.0",
@@ -529,15 +448,6 @@
     "MG_Rating": 4,
     "DG_Notes": "No reported issues",
     "MG_Notes": "No reported issues"
-  },
-  {
-    "Application": "ATO",
-    "Package": "package_name",
-    "Version": "0.0.0",
-    "DG_Rating": 1,
-    "MG_Rating": "X",
-    "DG_Notes": "Fails to load without Google Analytics",
-    "MG_Notes": "X"
   },
   {
     "Application": "Audible",
