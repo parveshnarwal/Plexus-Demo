@@ -8282,7 +8282,7 @@
   {
     "Application": "Twitter",
     "Package": "com.twitter.android",
-    "Version": "0.0.0",
+    "Version": "9.40.0-release.0",
     "DG_Rating": 3,
     "MG_Rating": 3,
     "DG_Notes": "Notifications not working",
